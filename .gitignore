@@ -1,0 +1,5 @@
+.DS_Store
+wiki-short.bin
+mod/
+vendor/
+.env
