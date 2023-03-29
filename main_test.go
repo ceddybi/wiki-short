@@ -1,6 +1,6 @@
 // main_test.go
 
-package main_test
+package main
 
 import (
 	"net/http"
@@ -8,7 +8,7 @@ import (
 	"testing"
 )
 
-var a main.App
+var a App
 
 // tom: next functions added later, these require more modules: net/http net/http/httptest
 
